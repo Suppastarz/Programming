@@ -1,0 +1,4 @@
+E:/School_18/CS_2420/Week1/assignment-01-Suppastarz/build/CMakeFiles/edit_cache.dir
+E:/School_18/CS_2420/Week1/assignment-01-Suppastarz/build/CMakeFiles/main.dir
+E:/School_18/CS_2420/Week1/assignment-01-Suppastarz/build/CMakeFiles/tester.dir
+E:/School_18/CS_2420/Week1/assignment-01-Suppastarz/build/CMakeFiles/rebuild_cache.dir
